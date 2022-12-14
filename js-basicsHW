@@ -1,0 +1,75 @@
+function countString(a) {
+    return a.length
+}
+console.log(countString('summer'))
+
+function largestNumber(x,y) {
+    return Math.max (x,y)
+}
+console.log(largestNumber(200,400))
+
+
+
+function checkNumber(a)
+{
+    if(a > 5000 && a<9999)  
+    {
+    return true
+    }
+    else false
+}
+
+console.log(checkNumber(6000))
+
+function cubeRoot (z) {
+    return Math.cbrt (z)
+}
+console.log(cubeRoot(343))
+
+function inchesToFeet(inches) {
+    return inches/12 ;
+}
+console.log(inchesToFeet(60))
+
+function cToF(celcius)
+ {
+    return celcius * 9/5+32
+} 
+
+console.log(cToF(35))
+
+function kToP(kgs) {
+    return kgs * 2.20
+}
+console.log(kToP(52))
+
+function pToK(lbs) {
+    return lbs / 2.20
+}
+console.log(pToK(72))
+
+function longestString(c,d) 
+{
+    var x = c.length
+    var y = d.length
+    if (x > y)
+    return c   
+    else return d
+}
+
+console.log(longestString('sun','moon'))
+
+function shortestLength(arr) 
+{
+    var max_str = arr[0].length;
+    var ans = arr[0];
+    for (var i = 1; i < arr.length; i++) {
+        var maxi = arr[i].length;
+        if (maxi < max_str) {
+            ans = arr[i];
+            max_str = maxi;
+        }
+    }
+    return ans;
+}
+  console.log(shortestLength(['money','to','water','air']))
