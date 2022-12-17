@@ -73,3 +73,130 @@ function shortestLength(arr)
     return ans;
 }
   console.log(shortestLength(['money','to','water','air']))
+
+  {
+    "States" ; [
+
+     {
+      "Name" : "Alabama",
+      "Statehood" : 1819 ,
+      "Capital" : "Montgomery",
+      "Statehood Order" : 22,
+      "Population" : 4887871,
+      "Largest City" : "Birmingham",
+      "Area" : 52420,
+      "Time Zone" : "Central"
+     } ,
+
+     {  
+        "Name" : "Arizona",
+        "Statehood" : 1912 ,
+        "Capital" : "Phoenix",
+        "Statehood Order" : 48,
+        "Population" : 7151502,
+        "Largest City" : "Phoenix",
+        "Area" : 113998,
+        "Time Zone" : "Mountain"
+       } ,
+
+       {
+        "Name" : "New Jersey",
+      "Statehood" : 1787 ,
+      "Capital" : "Trenton",
+      "Statehood Order" : 3 ,
+      "Population" : 9288994,
+      "Largest City" : "Newark",
+      "Area" : 22610 ,
+      "Time Zone" : "Eastern"
+     } ,
+
+     {
+        "Name" : "North Carolina",
+      "Statehood" : 1789,
+      "Capital" : "Raleigh",
+      "Statehood Order" : 12,
+      "Population" : 10439388,
+      "Largest City" : "Charlotte",
+      "Area" : 53819,
+      "Time Zone" : "Eastern"
+     } ,
+
+     {
+        "Name" : "Texas",
+        "Statehood" : 1845 ,
+        "Capital" : "Austin",
+        "Statehood Order" : 28,
+        "Population" : 29527941,
+        "Largest City" : "Houston",
+        "Area" : 268597,
+        "Time Zone" : "Central"
+       } ,
+       
+       {
+        "Name" : "California",
+      "Statehood" : 1850,
+      "Capital" : "Sacramento",
+      "Statehood Order" : 31,
+      "Population" : 39237836,
+      "Largest City" : "Los Angeles",
+      "Area" : 163696,
+      "Time Zone" : "Pacific"
+     } ,
+
+     {
+        "Name" : "Florida",
+      "Statehood" : 1845 ,
+      "Capital" : "Tallahassee",
+      "Statehood Order" : 27,
+      "Population" : 21538187,
+      "Largest City" : "Jacksonville",
+      "Area" : 65758,
+      "Time Zone" : "Eastern"
+     } ,
+     
+     {
+        "Name" : "Tennessee",
+      "Statehood" : 1796 ,
+      "Capital" : "Nashville",
+      "Statehood Order" : 16,
+      "Population" : 6910840,
+      "Largest City" : "Nashville",
+      "Area" : 42143,
+      "Time Zone" : "Central"
+     } ,
+     
+     {
+        "Name" : "Michigan",
+      "Statehood" : 1837 ,
+      "Capital" : "Lansing",
+      "Statehood Order" : 26,
+      "Population" : 10079475 ,
+      "Largest City" : "Detroit",
+      "Area" : 96716,
+      "Time Zone" : "Eastern"
+     } ,
+     
+     {
+        "Name" : " New York" ,
+        "Statehood" : 1624,
+        "Capital" : "Albany",
+        "Statehood Order" : 11,
+        "Population" : 20201249,
+        "Largest City" : "New York",
+        "Area" : 54556,
+        "Time Zone" : "Eastern"
+       } , 
+
+    ]
+
+}
+     
+       
+     
+     
+       
+
+
+     
+
+     
