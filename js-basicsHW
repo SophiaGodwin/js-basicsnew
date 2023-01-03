@@ -74,9 +74,9 @@ function shortestLength(arr)
 }
   console.log(shortestLength(['money','to','water','air']))
 
-  {
-    "States" ; [
-
+{
+    "States" ; 
+    [
      {
       "Name" : "Alabama",
       "Statehood" : 1819 ,
@@ -192,7 +192,35 @@ function shortestLength(arr)
 }
      
        
-     
+{
+      "teamName" ; "India",
+      "captain"  ; "Virat Kohli",
+      "coach"    ; "Ravi Shastri"
+      "players" ;
+
+    [
+        {
+            "name": "Rohit Sharma",
+            "age": 33,
+            "role": "Batsman"
+        },
+        {
+            "name": "Jasprit Bumrah",
+            "age": 27,
+            "role": "Bowler"
+        },
+        {
+            "name": "Kuldeep Yadav",
+            "age": 26,
+            "role": "Spinner"
+        },
+        {
+            "name": "Ravindra Jadeja",
+            "age": 31,
+            "role": "All-rounder"
+        }
+    ]
+}
      
        
 
