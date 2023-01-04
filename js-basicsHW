@@ -74,8 +74,8 @@ function shortestLength(arr)
 }
   console.log(shortestLength(['money','to','water','air']))
 
-{
-    "States" ; 
+
+    
     [
      {
       "Name" : "Alabama",
@@ -185,18 +185,18 @@ function shortestLength(arr)
         "Largest City" : "New York",
         "Area" : 54556,
         "Time Zone" : "Eastern"
-       } , 
+       } 
 
     ]
 
-}
+
      
        
-{
-      "teamName" ; "India",
-      "captain"  ; "Virat Kohli",
-      "coach"    ; "Ravi Shastri"
-      "players" ;
+
+       
+      
+      
+    
 
     [
         {
@@ -220,11 +220,11 @@ function shortestLength(arr)
             "role": "All-rounder"
         }
     ]
-}
+
      
        
 
 
      
 
-     
+    
